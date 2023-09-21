@@ -1,7 +1,8 @@
 # studentManagement
 use design pattern in Java
 the design for this project
-![Screenshot 2023-09-20 at 3 11 18 PM](https://github.com/selinaliu0626/studentManagement/assets/66767001/b16004b3-5a55-4c17-b687-2b45e014822d)
+<img width="1219" alt="Screenshot 2023-09-20 at 7 34 14 PM" src="https://github.com/selinaliu0626/studentManagement/assets/66767001/cf924eae-ca3b-461d-84c1-d47778372c15">
+
 
 The design pattern used in this project
 1. Factory pattern
