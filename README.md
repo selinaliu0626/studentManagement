@@ -1,5 +1,6 @@
 # studentManagement
-use design pattern in Java
+## term project for 665 Java design patterns
+
 the design for this project
 <img width="1219" alt="Screenshot 2023-09-20 at 7 34 14 PM" src="https://github.com/selinaliu0626/studentManagement/assets/66767001/cf924eae-ca3b-461d-84c1-d47778372c15">
 
@@ -12,6 +13,9 @@ The design pattern used in this project
 2. singleton pattern
 
 <img width="397" alt="Screenshot 2023-09-20 at 7 30 14 PM" src="https://github.com/selinaliu0626/studentManagement/assets/66767001/10f6eabb-1a8c-45a9-9a18-878ee145a503">
+
+
+
 3. composite pattern
 <img width="457" alt="Screenshot 2023-09-20 at 7 31 27 PM" src="https://github.com/selinaliu0626/studentManagement/assets/66767001/946107dd-5bae-44f7-8d04-550d8b076634">
 
